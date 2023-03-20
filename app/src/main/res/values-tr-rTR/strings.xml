@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT-DL</string>
+    <string name="btn_mp4_download">MP4 İndir</string>
+    <string name="btn_mp3_download">MP3 İndir</string>
+    <string name="btn_command_experimental">Ayarlar (Deneysel)</string>
+    <string name="btn_update">YT-DLP\'yi Güncelleştir</string>
+    <string name="btn_start_download">İndirmeyi Başlat</string>
+    <string name="url_hint">URL Girin</string>
+    <string name="btn_run_command">Çalıştır</string>
+    <string name="btn_stop_download">Durdur</string>
+    <string name="btn_stop_command">Durdur</string>
+    <string name="command_hint">Komut Girin</string>
+    <string name="url_error">Geçerli Bir URL Girin</string>
+    <string name="command_error">Geçerli Bir Komut Girin</string>
+    <string name="start">Bekleniyor…</string>
+    <string name="example_command">Örnek Komut: --add-metadata url</string>
+    <string name="download_start">İndirme Başlatılıyor</string>
+    <string name="download_complete">İndirme Tamamlandı</string>
+    <string name="download_failed">İndirme Başarısız</string>
+    <string name="command_start">Komut Başlatılıyor</string>
+    <string name="command_complete">Komut Tamamlandı</string>
+    <string name="command_failed">Komut Başarısız</string>
+    <string name="nav_music">Müzik</string>
+    <string name="nav_video">Video</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="storage_permission">Depolama Erişim İznini Verin Ve Yeniden Deneyin</string>
+    <string name="app_label">YouTube İndirici</string>
+    <string name="start_error">Zaten İndiriliyor Yeni Bir İndirme Başlatamazsınız</string>
+</resources>
